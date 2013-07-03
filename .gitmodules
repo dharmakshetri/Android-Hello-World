@@ -1,3 +1,0 @@
-[submodule "opentok-android-sdk"]
-	path = opentok-android-sdk
-	url = git://github.com/opentok/opentok-android-sdk.git
